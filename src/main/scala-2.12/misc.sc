@@ -74,4 +74,11 @@ wrapperFun()
 BigInt(3) == 3
 3.equals(BigInt(3))
 BigInt(3).equals(3)
-null.eq(null)
+println("============= Example of String equality ===============")
+val s1 = "Hello"
+val s2 = "Hello"
+val s3 = "H" + "ello"
+s1 == s2
+s2 == s3
+val s4: String = null
+s3 == s4
