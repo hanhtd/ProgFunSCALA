@@ -70,3 +70,8 @@ def wrapperFun():Unit = {
 
 //println("index of value = " + indexOf("Hanhtd kaka in the worlderlan", 'k'))
 wrapperFun()
+3 == BigInt(3)
+BigInt(3) == 3
+3.equals(BigInt(3))
+BigInt(3).equals(3)
+null.eq(null)

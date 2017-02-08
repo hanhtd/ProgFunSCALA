@@ -20,6 +20,8 @@ class Rational(x: Int, y: Int) {
   def neg() = new Rational(-numer, denom)
 
   //Q_2: what is difference between equals and == in scala
+  //AS: eq for compare reference to same obj; equals for compare value of 2 objects (default implementation = equal method)
+  //== null-safe of equals
   override def equals(obj: scala.Any): Boolean = if (obj != null && obj.isInstanceOf[Rational]) {
     val objRational = obj.asInstanceOf[Rational]
     this.numer * objRational.denom == this.denom * objRational.numer
