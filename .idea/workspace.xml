@@ -663,7 +663,7 @@
       <workItem from="1486718382167" duration="826000" />
       <workItem from="1486723481354" duration="599000" />
       <workItem from="1486953500535" duration="125000" />
-      <workItem from="1486960699343" duration="1302000" />
+      <workItem from="1486960699343" duration="1370000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1486110585029</created>
@@ -679,11 +679,18 @@
       <option name="project" value="LOCAL" />
       <updated>1486374048865</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finish lecture 2-7, add 3 TODO">
+      <created>1486977230394</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1486977230394</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="23441000" />
+    <option name="totallyTimeSpent" value="23509000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1608" height="908" extended-state="6" />
@@ -741,7 +748,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="initial commit" />
     <MESSAGE value="finish lecture 2-4, add 3 Questions" />
-    <option name="LAST_COMMIT_MESSAGE" value="finish lecture 2-4, add 3 Questions" />
+    <MESSAGE value="finish lecture 2-7, add 3 TODO" />
+    <option name="LAST_COMMIT_MESSAGE" value="finish lecture 2-7, add 3 TODO" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
