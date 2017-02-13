@@ -7,7 +7,8 @@ import scala.annotation.tailrec
   */
 //TODO: 1. Reading about substution mode in scala
 //TODO: 2. Other evaluate mode in compiler: SCIP book
-//TODO: 3. What is identifier in scala and relaxed identifier?
+//TODO: [OK]3. What is identifier in scala and relaxed identifier?
+//The names of variables, classes, objects and methods are collectively called Identifiers
 class EnhanceOptimalRational(x: Int, y: Int) {
   require(y > 0, "denominator must be positive")
 
