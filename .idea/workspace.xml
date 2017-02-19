@@ -1,11 +1,19 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
+<<<<<<< Updated upstream
     <list default="true" id="0245d043-d536-4236-a668-c19e5008ac53" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala-2.12/weekThree/HelloWorld.scala" afterPath="$PROJECT_DIR$/src/main/scala-2.12/weekThree/HelloWorld.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala-2.12/weekThree/NonEmpty.scala" afterPath="$PROJECT_DIR$/src/main/scala-2.12/weekThree/NonEmpty.scala" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/scala-2.12/weekThree/week3-1.sc" afterPath="$PROJECT_DIR$/src/main/scala-2.12/weekThree/week3-1.sc" />
+=======
+    <list default="true" id="0245d043-d536-4236-a668-c19e5008ac53" name="Default" comment="finish lecture 2-7, add 3 TODO">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala-2.12/weekThree/Carrot.scala" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/scala-2.12/weekThree/week3-2.sc" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/modules/progfunscala-build.iml" afterPath="$PROJECT_DIR$/.idea/modules/progfunscala-build.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+>>>>>>> Stashed changes
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -70,18 +78,50 @@
       <file leaf-file-name="IntSet.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/IntSet.scala">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="170">
               <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+=======
+            <state relative-caret-position="72">
+              <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< Updated upstream
       <file leaf-file-name="EnhanceOptimalRational.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/EnhanceOptimalRational.scala">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="17">
               <caret line="10" column="90" lean-forward="false" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
+=======
+      <file leaf-file-name="Carrot.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/Carrot.scala">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="288">
+              <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="misc.sc" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/misc.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="36">
+              <caret line="58" column="10" lean-forward="false" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="week3-2.sc" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/week3-2.sc">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="216">
+              <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
               <folding />
             </state>
           </provider>
@@ -90,8 +130,24 @@
       <file leaf-file-name="OptimalRational.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/OptimalRational.scala">
           <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="486">
+              <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="10" />
+>>>>>>> Stashed changes
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="OptimalRational.scala" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/OptimalRational.scala">
+          <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="401">
               <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="10" />
+=======
+            <state relative-caret-position="180">
+              <caret line="10" column="90" lean-forward="false" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -100,8 +156,13 @@
       <file leaf-file-name="Rational.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/Rational.scala">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="68">
               <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+=======
+            <state relative-caret-position="180">
+              <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -110,7 +171,7 @@
       <file leaf-file-name="Empty.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/Empty.scala">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="204">
+            <state relative-caret-position="216">
               <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
               <folding />
             </state>
@@ -120,6 +181,7 @@
       <file leaf-file-name="NonEmpty.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/NonEmpty.scala">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="85">
               <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
               <folding />
@@ -132,6 +194,10 @@
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="102">
               <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+=======
+            <state relative-caret-position="306">
+              <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -140,8 +206,13 @@
       <file leaf-file-name="HelloWorld.scala" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/HelloWorld.scala">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
             <state relative-caret-position="204">
               <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+=======
+            <state relative-caret-position="144">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+>>>>>>> Stashed changes
               <folding />
             </state>
           </provider>
@@ -189,7 +260,12 @@
         <option value="$PROJECT_DIR$/src/main/scala-2.12/weekThree/Empty.scala" />
         <option value="$PROJECT_DIR$/src/main/scala-2.12/weekThree/HelloWorld.scala" />
         <option value="$PROJECT_DIR$/src/main/scala-2.12/weekThree/NonEmpty.scala" />
+<<<<<<< Updated upstream
         <option value="$PROJECT_DIR$/src/main/scala-2.12/weekThree/week3-1.sc" />
+=======
+        <option value="$PROJECT_DIR$/src/main/scala-2.12/weekThree/Carrot.scala" />
+        <option value="$PROJECT_DIR$/src/main/scala-2.12/weekThree/week3-2.sc" />
+>>>>>>> Stashed changes
       </list>
     </option>
   </component>
@@ -200,10 +276,10 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="-4" />
-    <option name="y" value="-4" />
-    <option name="width" value="1608" />
-    <option name="height" value="908" />
+    <option name="x" value="41" />
+    <option name="y" value="24" />
+    <option name="width" value="1325" />
+    <option name="height" value="744" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectView">
@@ -390,13 +466,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
-      <module name="" />
-      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
-      <option name="PROGRAM_PARAMETERS" />
-      <predefined_log_file id="idea.log" enabled="true" />
-      <method />
-    </configuration>
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -525,15 +594,6 @@
         </option>
         <option name="vmOptions" />
       </ExternalSystemSettings>
-      <method />
-    </configuration>
-    <configuration default="true" type="GrailsRunConfigurationType" factoryName="Grails">
-      <setting name="vmparams" value="" />
-      <setting name="cmdLine" value="run-app" />
-      <setting name="passParentEnv" value="true" />
-      <setting name="launchBrowser" value="true" />
-      <setting name="launchBrowserUrl" value="" />
-      <setting name="depsClasspath" value="false" />
       <method />
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
@@ -704,12 +764,6 @@
       <envs />
       <method />
     </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Run Launcher">
-      <method />
-    </configuration>
-    <configuration default="true" type="osgi.bnd.run" factoryName="Test Launcher (JUnit)">
-      <method />
-    </configuration>
     <configuration default="true" type="uTestRunConfiguration" factoryName="utest">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <module name="" />
@@ -737,7 +791,11 @@
     </recent_temporary>
   </component>
   <component name="SbtLocalSettings">
+<<<<<<< Updated upstream
     <option name="lastUpdateTimestamp" value="1487300393431" />
+=======
+    <option name="lastUpdateTimestamp" value="1487497671714" />
+>>>>>>> Stashed changes
     <option name="availableProjects">
       <map>
         <entry>
@@ -791,9 +849,19 @@
       <workItem from="1486984167499" duration="706000" />
       <workItem from="1487062715572" duration="690000" />
       <workItem from="1487064958253" duration="600000" />
+<<<<<<< Updated upstream
       <workItem from="1487149389679" duration="6207000" />
       <workItem from="1487228933744" duration="6887000" />
       <workItem from="1487300334758" duration="2824000" />
+=======
+      <workItem from="1487149389679" duration="5693000" />
+      <workItem from="1487333752422" duration="51000" />
+      <workItem from="1487410133134" duration="1041000" />
+      <workItem from="1487411375544" duration="65000" />
+      <workItem from="1487411469179" duration="122000" />
+      <workItem from="1487411684259" duration="1056000" />
+      <workItem from="1487497631674" duration="2387000" />
+>>>>>>> Stashed changes
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1486110585029</created>
@@ -820,27 +888,45 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
+<<<<<<< Updated upstream
     <option name="totallyTimeSpent" value="43610000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-4" y="-4" width="1608" height="908" extended-state="0" />
+=======
+    <option name="totallyTimeSpent" value="38107000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="41" y="24" width="1325" height="744" extended-state="6" />
+>>>>>>> Stashed changes
     <editor active="true" />
     <layout>
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="SBT" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32125" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3275862" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32953104" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< Updated upstream
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31685677" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.306875" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+=======
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881773" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3164933" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3154717" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> Stashed changes
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+<<<<<<< Updated upstream
       <window_info id="Key Promoter" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3994253" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> Stashed changes
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -848,7 +934,11 @@
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32881773" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+<<<<<<< Updated upstream
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+=======
+      <window_info id="Key Promoter" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+>>>>>>> Stashed changes
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -890,6 +980,7 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/NonEmpty.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -910,13 +1001,23 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/HelloWorld.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/Rational.scala">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="68">
+=======
+        <state relative-caret-position="72">
+>>>>>>> Stashed changes
           <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
           <folding />
         </state>
@@ -924,7 +1025,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/OptimalRational.scala">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="459">
+=======
+        <state relative-caret-position="486">
+>>>>>>> Stashed changes
           <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="10" />
           <folding />
         </state>
@@ -932,7 +1037,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/EnhanceOptimalRational.scala">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="170">
+=======
+        <state relative-caret-position="180">
+>>>>>>> Stashed changes
           <caret line="10" column="90" lean-forward="false" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
           <folding />
         </state>
@@ -940,7 +1049,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/IntSet.scala">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="170">
+=======
+        <state relative-caret-position="180">
+>>>>>>> Stashed changes
           <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding />
         </state>
@@ -948,7 +1061,11 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/Empty.scala">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="204">
+=======
+        <state relative-caret-position="216">
+>>>>>>> Stashed changes
           <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
           <folding />
         </state>
@@ -964,15 +1081,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/week3-1.sc">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="34">
           <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
           <folding />
+=======
+        <state relative-caret-position="36">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+>>>>>>> Stashed changes
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/HelloWorld.scala">
       <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
         <state relative-caret-position="136">
+=======
+        <state relative-caret-position="144">
+>>>>>>> Stashed changes
           <caret line="8" column="0" lean-forward="true" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
           <folding />
         </state>
@@ -1201,13 +1327,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/misc.sc">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="185">
-          <caret line="58" column="10" lean-forward="true" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/week 2-6.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
@@ -1222,66 +1341,143 @@
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/HelloWorld.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="204">
           <caret line="12" column="25" lean-forward="false" selection-start-line="12" selection-start-column="25" selection-end-line="12" selection-end-column="25" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/week3-1.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="33" lean-forward="false" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/HelloWorld.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/NonEmpty.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="85">
           <caret line="5" column="57" lean-forward="false" selection-start-line="5" selection-start-column="57" selection-end-line="5" selection-end-column="57" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/IntSet.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/Empty.scala">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="204">
+        <state relative-caret-position="216">
           <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/NonEmpty.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/Empty.scala">
+      <provider selected="true" editor-type-id="text-editor">
+<<<<<<< Updated upstream
+        <state relative-caret-position="204">
+          <caret line="12" column="42" lean-forward="false" selection-start-line="12" selection-start-column="42" selection-end-line="12" selection-end-column="42" />
+=======
+        <state relative-caret-position="180">
+          <caret line="10" column="90" lean-forward="false" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
+>>>>>>> Stashed changes
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/IntSet.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="170">
           <caret line="10" column="34" lean-forward="false" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/OptimalRational.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="486">
+          <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="10" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/EnhanceOptimalRational.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="17">
           <caret line="10" column="90" lean-forward="false" selection-start-line="10" selection-start-column="90" selection-end-line="10" selection-end-column="90" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/Rational.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/OptimalRational.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="401">
           <caret line="27" column="10" lean-forward="false" selection-start-line="27" selection-start-column="6" selection-end-line="27" selection-end-column="10" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/misc.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="58" column="10" lean-forward="false" selection-start-line="58" selection-start-column="10" selection-end-line="58" selection-end-column="10" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekTwo/Rational.scala">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="68">
           <caret line="4" column="4" lean-forward="false" selection-start-line="4" selection-start-column="4" selection-end-line="4" selection-end-column="4" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/Carrot.scala">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="29" lean-forward="false" selection-start-line="16" selection-start-column="29" selection-end-line="16" selection-end-column="29" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< Updated upstream
     <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/week3-1.sc">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="102">
           <caret line="6" column="18" lean-forward="false" selection-start-line="6" selection-start-column="18" selection-end-line="6" selection-end-column="18" />
+=======
+    <entry file="file://$PROJECT_DIR$/src/main/scala-2.12/weekThree/week3-2.sc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" column="14" lean-forward="false" selection-start-line="12" selection-start-column="14" selection-end-line="12" selection-end-column="14" />
+>>>>>>> Stashed changes
           <folding />
         </state>
       </provider>
