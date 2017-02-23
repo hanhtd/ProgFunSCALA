@@ -9,6 +9,8 @@
 .history
 .lib/
 dist/*
+dist
+dist/**
 target/
 lib_managed/
 src_managed/
