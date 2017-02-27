@@ -11,10 +11,6 @@ trait List[T] {
 //TODO: why use val at class variables to automatic create method
 class Cons[T](val head: T,val tail: List[T]) extends List[T]{
   def isEmpty: Boolean = false
-/*
-  def head: T = _head
-
-  def tail: List[T] = _tail*/
 }
 
 class Nil[T] extends List[T] {
@@ -24,3 +20,6 @@ class Nil[T] extends List[T] {
 
   def tail: List[T] = throw new NoSuchElementException("Nil.tail")
 }
+
+
+
