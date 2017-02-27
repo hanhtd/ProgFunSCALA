@@ -1,2 +1,2 @@
 import weekThree.List
-def nth[T](n: Int, List[Int]):Int = throw Exception;
+def nth[T](n: Int,  list: List[T]):T = ???
