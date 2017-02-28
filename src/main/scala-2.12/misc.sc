@@ -82,3 +82,6 @@ s1 == s2
 s2 == s3
 val s4: String = null
 s3 == s4
+s1.##
+null == 43
+
