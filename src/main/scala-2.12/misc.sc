@@ -1,3 +1,5 @@
+import misc.Account
+
 /*import scala.math._
 val num = 3.14
 val fun = ceil _
@@ -84,4 +86,4 @@ val s4: String = null
 s3 == s4
 s1.##
 null == 43
-
+val acct = Account(1000.0)
