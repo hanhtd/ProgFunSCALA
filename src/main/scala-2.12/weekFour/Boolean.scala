@@ -12,12 +12,15 @@ abstract class Boolean {
   def != (x: Boolean) : Boolean =  ifThenElse[Boolean](x.unary_!, x)
   //def < (x: Boolean): Boolean = this.!=(x).&&(trueValue.==(x))
   def < (x: Boolean): Boolean = ifThenElse(falseValue, x)
+  def toScalaBoolean(): scala.Boolean
 }
 
 object trueValue extends Boolean {
   def ifThenElse[T](t: => T, e: => T) = t
+  def toScalaBoolean = true
 }
 
 object falseValue extends Boolean {
   def ifThenElse[T](t: => T, e: => T) = e
+  def toScalaBoolean = false
 }
