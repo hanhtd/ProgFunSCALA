@@ -5,16 +5,20 @@ package weekFour
   */
 abstract class Nat {
   def isZero(): Boolean
+
   def predecessor: Nat
-  def successor: Nat
-  def + (that: Nat): Nat
-  def - (that: Nat): Nat
+
+  def successor: Nat = new Succ(this)
+
+  def +(that: Nat): Nat
+
+  def -(that: Nat): Nat
 
   //for testing only
-  def  toInt: Int = {
+  def toInt: Int = {
     var i = 0
     var temp: Nat = this
-    while(!temp.isZero().toScalaBoolean()) {
+    while (!temp.isZero().toScalaBoolean()) {
       temp = temp.predecessor
       i = i + 1
     }
@@ -22,28 +26,26 @@ abstract class Nat {
   }
 }
 
-class Succ(n: Nat) extends Nat{
+class Succ(n: Nat) extends Nat {
   def isZero(): Boolean = falseValue
 
   def predecessor: Nat = n
 
-  def successor: Nat = new Succ(this)
+  def +(that: Nat): Nat = new Succ(n + that)
 
-  def +(that: Nat): Nat = that.isZero().ifThenElse(this, this.successor.+(that.predecessor))
-
-  def -(that: Nat): Nat = that.isZero().ifThenElse(this, this.predecessor.-(that.predecessor))
+  def -(that: Nat): Nat = that.isZero().ifThenElse(this, n - that.predecessor)
 }
 
 object Zero extends Nat {
   def isZero(): Boolean = trueValue
 
-  def predecessor: Nat = throw new NoSuchElementException("Zero.predecessor")
+  def predecessor: Nat = throw new Error("Zero.predecessor")
 
-  def successor: Nat = new Succ(Zero)
-
-  //TODO: thinking later about mutable data affection
   def +(that: Nat): Nat = that
 
-  def -(that: Nat): Nat = that.isZero().ifThenElse(Zero, throw new NoSuchElementException("Zero.predecessor"))
+  def -(that: Nat): Nat = that.isZero().ifThenElse(Zero, throw new Error("Zero.predecessor"))
 }
-//TODO: [Question] How to debug scala programm in InteliJ
+
+//TODO[LTS]: [Question] How to debug scala programm in InteliJ
+//TODO[LTS]: practice algorithm with recursion
+//TODO[LTS]: read + practice functional thinking with Nearl Forth
