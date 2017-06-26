@@ -9,6 +9,8 @@ abstract class Nat {
   def successor: Nat
   def + (that: Nat): Nat
   def - (that: Nat): Nat
+
+  //for testing only
   def  toInt: Int = {
     var i = 0
     var temp: Nat = this
